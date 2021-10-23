@@ -1,0 +1,17 @@
+.caja {
+    font-size: 50px;
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    background: red;
+    color: yellow;
+  }
+
+  .caja2 {
+    font-size: 50px;
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    background: black;
+    color: white;
+  }
